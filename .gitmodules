@@ -1,0 +1,3 @@
+[submodule "b-ball"]
+	path = b-ball
+	url = https://github.com/Sylbris/cpp_ex6
